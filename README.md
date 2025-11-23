@@ -11,3 +11,8 @@ Para probar este proyecto localmente:
 3. Instalar las dependencias necesarias:
    ```bash
    npm install
+
+Una vez instaladas las dependencias, ejecutar:
+node index.js
+
+Node.js Express MySQL XAMPP

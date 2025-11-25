@@ -16,3 +16,5 @@ Una vez instaladas las dependencias, ejecutar:
 node index.js
 
 Node.js Express MySQL XAMPP
+
+Actualización final con validación de cupos y reservas
